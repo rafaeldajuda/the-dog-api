@@ -25,7 +25,17 @@ A "The Dog API" é uma API pública que retorna informações de cacharros. A AP
   </tr>
 </table>
 
+## Projeto
 
+Toda a lógica da aplicação encontra-se dentro da pasta **app**.
+
+![app](https://user-images.githubusercontent.com/32685475/147426909-a5dcd31b-d7c7-4ff8-9ca6-4b85aae2d0bb.png)
+
+Dentro da pasta app existe as seguintes subpastas:
+- database
+- model
+- pkg
+- services
 
 
 
