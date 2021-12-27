@@ -1,0 +1,12 @@
+{
+    "dog_api": {
+        "url": "https://api.thedogapi.com/v1/images/search",
+        "x-api-key": "ecd36ceb-2f14-49ec-9e28-d6715e7fd948"
+    },
+    "mongodb": {
+        "url": "localhost",
+        "database": "dogsapi",
+        "username": "root",
+        "password": "admin"
+    }
+}

@@ -1,0 +1,8 @@
+
+> the-dog-api-consume@1.0.0 start
+> node app/index.js
+
+inicio listagem
+[{"breeds":[{"weight":{"imperial":"35 - 50","metric":"16 - 23"},"height":{"imperial":"17 - 18","metric":"43 - 46"},"id":108,"name":"Field Spaniel","bred_for":"Bird flushing, retrieving","breed_group":"Sporting","life_span":"11 - 15 years","temperament":"Docile, Cautious, Sociable, Sensitive, Adaptable, Familial","reference_image_id":"SkJfGecE7"}],"id":"SkJfGecE7","url":"https://cdn2.thedogapi.com/images/SkJfGecE7_1280.jpg","width":1280,"height":906},{"breeds":[],"id":"18lQnZfKQ","url":"https://cdn2.thedogapi.com/images/18lQnZfKQ.jpg","width":612,"height":612},{"breeds":[],"id":"d1BTZDNE8","url":"https://cdn2.thedogapi.com/images/d1BTZDNE8.png","width":730,"height":370},{"breeds":[{"weight":{"imperial":"50 - 70","metric":"23 - 32"},"height":{"imperial":"21 - 22","metric":"53 - 56"},"id":61,"name":"Bull Terrier","bred_for":"Bull baiting, Fighting","breed_group":"Terrier","life_span":"10 - 12 years","temperament":"Trainable, Protective, Sweet-Tempered, Keen, Active","reference_image_id":"VSraIEQGd"}],"id":"CLRVGYoXA","url":"https://cdn2.thedogapi.com/images/CLRVGYoXA.jpg","width":1080,"height":1080},{"breeds":[],"id":"zcn9zdZ8E","url":"https://cdn2.thedogapi.com/images/zcn9zdZ8E.jpg","width":1536,"height":2048}]
+true
+fim listagem
